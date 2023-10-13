@@ -17,5 +17,7 @@ fn main() {
         println!("The value of x in the inner scope is: {x}");
     }
 
+    let x = "helloooooo test";
+
     println!("The value of x is: {x}");
 } 
